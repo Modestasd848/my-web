@@ -1,8 +1,10 @@
 {
   "name": "my-web",
   "version": "1.0.0",
+  "description": "my web",
   "main": "index.js",
   "scripts": {
+    "dev": "live-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,7 +23,5 @@
   "homepage": "https://github.com/Modestasd848/my-web#readme",
   "dependencies": {
     "live-server": "^1.2.2"
-  },
-  "devDependencies": {},
-  "description": ""
+  }
 }
