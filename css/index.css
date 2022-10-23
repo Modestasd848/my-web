@@ -81,6 +81,7 @@ a:hover {
 footer {
   display: inline-block;
   width: 100%;
+  font-family: "Arimo", sans-serif;
 }
 
 .center {
