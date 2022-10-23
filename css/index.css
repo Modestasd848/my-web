@@ -1,6 +1,6 @@
 body {
   color: white;
-  background: rgba(0, 0, 0, 0.7) url("/img/Avengers.png");
+  background: rgba(0, 0, 0, 0.7) url("../img/Avengers.png");
   background-size: cover;
   background-blend-mode: darken;
   margin-top: 21px;
